@@ -1,6 +1,7 @@
 <template>
-	<div class="page_container layout_v" :style="{overflow:'hidden', height : screenH}">
-		Privacy Policy
+	<div style=" padding: 10px 10px;">
+		<p style="text-align: center;">Privacy Policy</p>
+		<pre style="white-space: pre-wrap;">
 Ugo-Tool manager app is a Free app. This SERVICE  is intended for use as is.
 
 
@@ -45,13 +46,20 @@ Our Privacy Policy may be revised from time to time. We recommend that you visit
 Contact Information
 
 Should you have any inquiries or feedback regarding our Privacy Policy, please do not hesitate to contact us via email at kadirabay55@icloud.com. We take your concerns and opinions seriously and are committed to ensuring that your privacy is protected to the fullest extent possible. Our team is dedicated to providing assistance and addressing any questions or concerns you may have regarding the handling of your personal information. Remember, we're here to help and ensure your satisfaction with our Privacy Policy and overall service experience.
-
+		</pre>
 	</div>
 </template>
 
 <script>
 export default {
   name: 'HelloWorld',
+  created() {
+	document.title = 'Privacy Policy'
+	console.log('onCreated')
+  },
+  methods : {
+	
+  }
 }
 </script>
 
