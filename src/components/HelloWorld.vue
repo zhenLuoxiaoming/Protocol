@@ -2,7 +2,7 @@
 	<div style=" padding: 10px 10px;">
 		<p style="text-align: center;">Privacy Policy</p>
 		<pre style="white-space: pre-wrap;">
-Ugo-Tool manager app is a Free app. This SERVICE  is intended for use as is.
+UGOPH-TOOL app is a Free app. This SERVICE  is intended for use as is.
 
 
 This page is used to inform visitors about our policies regarding permission requests, use, and disclosure of Personal Information if anyone decides to use our Service.
@@ -11,7 +11,7 @@ This page is used to inform visitors about our policies regarding permission req
 If you choose to use our Service, you agree to the permission requests and use of information in connection with this policy. We request and use this information only to improve and maintain our Service.
 
 
-The terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, which are accessible at Ugo-Tool manager unless otherwise defined in this Privacy Policy. If you have any questions or suggestions regarding this Privacy Policy, please contact us via email at kadirabay55@icloud.com. We commit to responding and addressing your feedback as soon as possible after receipt.
+The terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, which are accessible at UGOPH-TOOL manager unless otherwise defined in this Privacy Policy. If you have any questions or suggestions regarding this Privacy Policy, please contact us via email at kadirabay55@icloud.com. We commit to responding and addressing your feedback as soon as possible after receipt.
 
 
 Permission Requests and Uses
@@ -20,22 +20,22 @@ To enhance your experience while utilizing our Service, we might need you to fur
 
 
 Camera:
-Ugo-Tool manager requests access to your Camera permissions so you can directly take photos and use them to edit your memo information. However, this is not mandatory, and you can deny the access request.
+UGOPH-TOOL manager requests access to your Camera permissions so you can directly take photos and use them to edit your memo information. However, this is not mandatory, and you can deny the access request.
 
 
 Album：
 
-Ugo-Tool manager requests access to your Album so you can directly add images for editing your memo information. However, this is not mandatory, and you can deny the access request.
+UGOPH-TOOL manager requests access to your Album so you can directly add images for editing your memo information. However, this is not mandatory, and you can deny the access request.
 
 
 Contacts：
 
-Ugo-Tool manager requests access to your Contacts so you can more easily share your memos with friends. However, this is not necessary, and you can decline the access request.
+UGOPH-TOOL manager requests access to your Contacts so you can more easily share your memos with friends. However, this is not necessary, and you can decline the access request.
 
 
 Location：
 
-Ugo-Tool manager requests access to your Location so you can directly retrieve your current position and use it to edit your memo information. In addition, you can also query your memo via a map. However, this is not mandatory, and you can deny the access request.
+UGOPH-TOOL manager requests access to your Location so you can directly retrieve your current position and use it to edit your memo information. In addition, you can also query your memo via a map. However, this is not mandatory, and you can deny the access request.
 
 
 Privacy Policy Updates
